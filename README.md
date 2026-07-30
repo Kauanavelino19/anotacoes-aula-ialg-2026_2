@@ -8,9 +8,9 @@ Anotações de aula, exercícios práticos e projetos desenvolvidos na disciplin
 Meu nome é <b>Kauan Felipe</b>
 </p>
 
-<h2> Esse Semestre vou esta estudando  introdução aos algoritmo</h2>
+<h2 aling="cemter"> Esse Semestre vou esta estudando  introdução aos algoritmo</h2>
 
-<span>Com a linguagem de programação c++ minha primeira linguagem aprendendo logica</span>
+<span aling="center"> Com a linguagem de programação c++ minha primeira linguagem aprendendo logica </span>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="100" alt="C++">
