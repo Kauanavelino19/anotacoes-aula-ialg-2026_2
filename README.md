@@ -8,6 +8,7 @@ Anotações de aula, exercícios práticos e projetos desenvolvidos na disciplin
 Meu nome é <b>Kauan Felipe</b>
 </p>
 
+<h2> Esse Semestre vou esta estudando  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="100" alt="C++">, que eh introducao aos algoritmo</h2>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="100" alt="C++">
 </p>
